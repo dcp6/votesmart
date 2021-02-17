@@ -1,0 +1,17 @@
+* {
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+body {
+  
+}
+general-header.header {
+
+}
+#wrapper {
+    margin:0px auto;
+}
+.banner-img {
+     width:100%;
+}
